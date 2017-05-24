@@ -14,13 +14,15 @@ C' est un moment de convivialité permettant à chacun(e) de s'exercer à la pri
 ## A ton tour!
 Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce répo, et en modifiant le fichier [agenda](./agenda.md) en suivant cette procédure:
 
-- Clone ce repo: `la-veille`
-- Pull   `git pull`
-- Va sur ta branche ou crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit)
-- Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom ci-dessous
-- Commit
-- Push 
-- Pull Request
+1. Via le terminal, crée un dossier "/home/user/becode/veille" `mdir /home/user/becode/veille` et va dedans: `cd /home/user/becode/veille`
+1. Clone ce repo: `la-veille` : `git clone git@github.com:becodeorg/La-Veille.git`
+1. Pull pour mettre à jour ta copie locale: `git pull`
+1. Crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit): `git branch prenom-nom`
+1. Va sur ta branche `git checkout prenom-nom` 
+1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom en bas de la liste (qui doit rester chronologique)
+1. Commit avec un message descriptif, par exemple: `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` 
+1. Push (pour mettre à jour le repository sur le serveur de Github): `git push`
+1. Pull Request
 
 ## Besoin d'un sujet?
 
