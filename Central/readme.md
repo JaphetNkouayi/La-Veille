@@ -29,10 +29,11 @@ Via le terminal :
 1. Commit avec un message descriptif, par exemple:
   - `git add .` (pour ajouter les fichiers modifiés sur le stage du prochain commit)
   - `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` : le commit en lui-même
-1. Mets à jour le repository sur le serveur de Github:  `git push`
 1. Applique tes changements de ta branche vers la branche "master":  
   - `git checkout master`
   - `git merge {prenom-nom}`
+1. Mets à jour le repository sur le serveur de Github:  `git push`
+
 
 ## Besoin d'un sujet?
 
