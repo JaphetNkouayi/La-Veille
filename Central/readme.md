@@ -17,11 +17,12 @@ Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce rép
 1. Via le terminal, crée un dossier "/home/user/becode/veille" `mdir /home/user/becode/veille` et va dedans: `cd /home/user/becode/veille`
 1. Clone ce repo: `la-veille` : `git clone git@github.com:becodeorg/La-Veille.git`
 1. Pull pour mettre à jour ta copie locale: `git pull`
-1. Crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit): `git branch prenom-nom`
-1. Va sur ta branche `git checkout prenom-nom` 
+1. Crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit):    `git branch {prenom-nom}` (remplace la partie entre `{}`)
+1. Va sur ta branche `git checkout {prenom-nom}` 
 1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom en bas de la liste (qui doit rester chronologique)
 1. Commit avec un message descriptif, par exemple: `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` 
-1. Push (pour mettre à jour le repository sur le serveur de Github): `git push`
+1. Push (pour mettre à jour le repository sur le serveur de Github):   
+`git push --set-upstream origin {prenom-nom}`  la première fois, ensuite, simplement `git push`
 1. Pull Request
 
 ## Besoin d'un sujet?
