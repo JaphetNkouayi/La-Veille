@@ -17,7 +17,7 @@ Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce rép
 - Clone ce repo `la-veille`
 - Pull   `git pull`
 - Va sur ta branche ou crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit)
-- Dans ce fichier ci, ajoute la date de passage, le sujet, ton prénom et ton nom ci-dessous
+- Ouvre le fichier [Agenda](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom ci-dessous
 - Commit
 - Push 
 - Pull Request
