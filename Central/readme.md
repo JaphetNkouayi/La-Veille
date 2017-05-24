@@ -12,17 +12,22 @@ Elle consiste généralement à une présentation informelle animée par l'appre
 C' est un moment de convivialité permettant à chacun(e) de s'exercer à la prise de parole en public, à partager une découverte / lecture / apprentissage... qui nous a personnellement intéressé et que nous avons humblement envie de partager. Sans se prendre la tête mais en ayant toujours à coeur de bien faire.
 
 ## A ton tour!
-Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce répo, et en modifiant le fichier [agenda](./agenda.md) en suivant cette procédure:
+Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce repo et en modifiant le fichier [agenda](./agenda.md) en suivant cette procédure:
 
-1. Via le terminal, crée un dossier "/home/user/becode/veille" `mdir /home/user/becode/veille` et va dedans: `cd /home/user/becode/veille`
-1. Clone ce repo: `la-veille` : `git clone git@github.com:becodeorg/La-Veille.git`
-1. Pull pour mettre à jour ta copie locale: `git pull`
-1. Crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit):    `git branch {prenom-nom}` (remplace la partie entre `{}`)
-1. Va sur ta branche `git checkout {prenom-nom}` 
-1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom en bas de la liste (qui doit rester chronologique)
-1. Commit avec un message descriptif, par exemple: `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` 
-1. Push (pour mettre à jour le repository sur le serveur de Github):   
-`git push --set-upstream origin {prenom-nom}`  la première fois, ensuite, simplement `git push`
+Via le terminal :  
+
+1. Crée un dossier sur ton disque local qui s'appellera "/home/user/becode/veille"   
+`mdir /home/user/becode/veille` et va dedans: `cd /home/user/becode/veille`
+1. Clone ce repo:   `git clone git@github.com:becodeorg/La-Veille.git`  
+1. Mets à jour ta copie locale avec les mises à jour des autres:   `git pull`  
+1. Crée une nouvelle branche en lui donnant ton prénom et ton nom, afin de minimiser le risque de conflit:    `git branch {prenom-nom}` (remplace la partie entre `{}`)
+1. Va sur ta branche:  
+ `git checkout {prenom-nom}`   
+1. Dis à Github qu'il doit créer ta branche également sur github.com et pas seulement en local: 
+ `git push --set-upstream origin {prenom-nom}`  
+1. Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la **date de passage**, **le sujet**, **ton prénom et ton nom** en bas de la liste (qui doit rester chronologique)
+1. Commit avec un message descriptif, par exemple:  `git commit -m "Ajout de ma prochaine veille sur les dégradés en CSS"` 
+1. Mets à jour le repository sur le serveur de Github:  `git push`
 1. Pull Request
 
 ## Besoin d'un sujet?
