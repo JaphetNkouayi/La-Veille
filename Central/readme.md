@@ -14,10 +14,10 @@ C' est un moment de convivialité permettant à chacun(e) de s'exercer à la pri
 ## A ton tour!
 Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce répo, et en modifiant le fichier [agenda](./agenda.md) en suivant cette procédure:
 
-- Clone ce repo `la-veille`
+- Clone ce repo: `la-veille`
 - Pull   `git pull`
 - Va sur ta branche ou crée une nouvelle branche en lui donnant ton prénom et ton nom (pour minimiser le risque de conflit)
-- Ouvre le fichier [Agenda](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom ci-dessous
+- Ouvre le fichier [Central/Agenda.md](agenda.md) et ajoute la date de passage, le sujet, ton prénom et ton nom ci-dessous
 - Commit
 - Push 
 - Pull Request
