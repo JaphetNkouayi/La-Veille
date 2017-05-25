@@ -5,7 +5,7 @@ Il est important de faire de la veille pour se tenir à jour des dernières avan
 ## Comment se déroule la veille
 Chaque jour, l'un/e d'entre nous choisit un article ou un sujet lié au développement web qui a fait récemment une actualité, idéalement lié à ce que nous sommes en train de travailler à ce moment-là. Il peut s'agir par exemple d'une nouvelle techno, d'une propriété CSS inconnue ou récente, etc.
 
-Elle consiste généralement à une présentation informelle animée par l'apprenant/e aux autres membres de la classe, éventuellement à l'aide du projecteur, suivi d'une séance de réactions. Elle a lieu à un moment précis de la journée (à Central, c'est 9h45). La veille en elle-même ne doit pas durer plus d'une quinzaine de minutes, et sa préparation ne doit pas dépasser au total une heure. 
+Elle consiste généralement en une présentation informelle animée par l'apprenant/e aux autres membres de la classe, éventuellement à l'aide du projecteur, suivi d'une séance de réactions. Elle a lieu à un moment précis de la journée (à Central, c'est 9h45). La veille en elle-même ne doit pas durer plus d'une quinzaine de minutes, et sa préparation ne doit pas dépasser au total une heure. 
 
 C' est un moment de convivialité permettant à chacun(e) de s'exercer à la prise de parole en public, à partager une découverte / lecture / apprentissage... qui nous a personnellement intéressé et que nous avons envie de partager. Sans se prendre la tête mais en ayant toujours à coeur de bien faire. Vivre ensemble un moment de "gai savoir": cette lumière qui nous illumine au moment de comprendre quelque chose.
 
@@ -17,7 +17,8 @@ Via le terminal :
 1. Crée un dossier sur ton disque local qui s'appellera (par exemple) "/home/user/becode/veille"   
 `mdir /home/user/becode/veille`  
 1. va dedans: `cd /home/user/becode/veille`
-1. Clone ce repo:   `git clone git@github.com:becodeorg/La-Veille.git`  
+1. Clone ce repo:   `https://github.com/becodeorg/La-Veille.git`
+1. Déplace toi dans le dossier 'La-Veille'  
 1. Mets à jour ta copie locale avec les mises à jour des autres:   `git pull`  
 1. Crée une nouvelle branche en lui donnant ton prénom et ton nom, afin de minimiser le risque de conflit:    `git branch {prenom-nom}` (remplace la partie entre `{}`)
 1. Va sur ta branche:  
