@@ -44,7 +44,8 @@ Voici quelques suggestions:
 
 ## Suis les comptes twitter suivants:
 - [Smashing Magazine](https://twitter.com/smashingmag)
-- [Sarah Soueidan](https://twitter.com/SaraSoueidan)
+- [Sara Soueidan](https://twitter.com/SaraSoueidan)
+- [Stephanie Walter](https://twitter.com/WalterStephanie)
 - [Christian Heilmann](https://twitter.com/codepo8)
 - [Teddy](https://twitter.com/teddykishi)
 - [Alexandre](https://twitter.com/pixeline)
