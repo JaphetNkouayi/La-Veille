@@ -17,7 +17,7 @@ Via le terminal :
 1. Crée un dossier sur ton disque local qui s'appellera (par exemple) "/home/user/becode/veille"   
 `mdir /home/user/becode/veille`  
 1. va dedans: `cd /home/user/becode/veille`
-1. Clone ce repo:   `https://github.com/becodeorg/La-Veille.git`
+1. Clone ce repo:   `git clone https://github.com/becodeorg/La-Veille.git`
 1. Déplace toi dans le dossier 'La-Veille'  
 1. Mets à jour ta copie locale avec les mises à jour des autres:   `git pull`  
 1. Crée une nouvelle branche en lui donnant ton prénom et ton nom, afin de minimiser le risque de conflit:    `git branch {prenom-nom}` (remplace la partie entre `{}`)
