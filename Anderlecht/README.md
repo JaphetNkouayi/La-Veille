@@ -2,4 +2,4 @@
 
 ### Au sommaire
 - [How to do la veille ?](howtodoit.md)
-- [Sujets abordés par les apprenants avec lien vers les contenus présentés](archives.md)
+- [Sujets abordés par les apprenants avec lien vers les contenus présentés](agenda.md)
