@@ -8,9 +8,9 @@ description + lien vers contenu github hébergé chez l'apprenant
 ### présenté par Nadia, le vendredi 12 mai 2017
 description + lien vers contenu github hébergé chez l'apprenant
 
-## Sublime Text et ses plug-in
+## Sublime Text et ses plug-ins
 ### présenté par Adrian, le vendredi 12 mai 2017
-description + lien vers contenu github hébergé chez l'apprenant
+[Explication et information sur Sublime Text 3 et les plug-ins qui existe](https://github.com/Zochowski/Sublime_text_3_and_Plugins)
 
 # Veille semaine 02
 
