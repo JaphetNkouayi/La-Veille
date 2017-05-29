@@ -15,7 +15,7 @@ Afin de pouvoir s'organiser, chaque étudiant doit s'inscrire en clonant ce repo
 Via le terminal :  
 
 1. Crée un dossier sur ton disque local qui s'appellera (par exemple) "/home/user/becode/veille"   
-`mdir /home/user/becode/veille`  
+`mkdir /home/user/becode/veille`  
 1. va dedans: `cd /home/user/becode/veille`
 1. Clone ce repo:   `git clone https://github.com/becodeorg/La-Veille.git`
 1. Déplace toi dans le dossier 'La-Veille'  
