@@ -44,7 +44,8 @@ description + lien vers contenu github hébergé chez l'apprenant
 ### Sujet
 **présenté par Hanya, le lundi 22 mai 2017**
 
-description + lien vers contenu github hébergé chez l'apprenant
+### description : l'informatique quantique.
+[lien vers la veille](https://github.com/anya75/veille-technologique.git)
 
 ### Sujet
 **présenté par Victor, le mardi 23 mai 2017**
