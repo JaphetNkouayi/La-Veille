@@ -14,7 +14,7 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 **présenté par Adrian, le vendredi 12 mai 2017**
 
-[Explication et information sur Sublime Text 3 et les plug-ins qui existe](https://github.com/Zochowski/Sublime_text_3_and_Plugins)
+[Explication et information sur Sublime Text 3 et les plug-ins qui existe](https://github.com/Zochowski/Becode/tree/master/Sublime_text_3_and_Plugins)
 
 ## Veille semaine 02
 
