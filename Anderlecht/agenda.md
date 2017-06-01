@@ -55,13 +55,7 @@ description + lien vers contenu github hébergé chez l'apprenant
 ### Sujet NodeJS
 **présenté par Gilles, le lundi 24 mai 2017**  
   
-description + lien vers contenu github hébergé chez l'apprenant  
-
-### Sujet
-**présenté par Gilles, le mercredi 24 mai 2017**
-  
-description + lien vers contenu github hébergé chez l'apprenant   
-      
+description + lien vers contenu github hébergé chez l'apprenant       
     
 ## Veille semaine 04  
   
