@@ -49,10 +49,38 @@ description + lien vers contenu github hébergé chez l'apprenant
 
 ### Sujet
 **présenté par Victor, le mardi 23 mai 2017**
-
-description + lien vers contenu github hébergé chez l'apprenant
+   
+description + lien vers contenu github hébergé chez l'apprenant  
 
 ### Sujet NodeJS
-**présenté par Gilles, le lundi 24 mai 2017**
+**présenté par Gilles, le lundi 24 mai 2017**  
+  
+description + lien vers contenu github hébergé chez l'apprenant  
+
+### Sujet
+**présenté par Gilles, le mercredi 24 mai 2017**
+  
+description + lien vers contenu github hébergé chez l'apprenant   
+      
+    
+## Veille semaine 04  
+  
+### Github project et Balsamiq  
+**présenté par Michael, le mardi 30 mai 2017**  
+
+description + lien vers contenu github hébergé chez l'apprenant  
+  
+### Google Assistant  
+**présenté par Nadia, le mercredi 31 mai 2017**  
+  
+description + lien vers contenu github hébergé chez l'apprenant  
+  
+### AngularJS 1.0  
+**présenté par Adrian, jeudi 1 juin 2017**  
+  
+description + lien vers contenu github hébergé chez l'apprenant  
+  
+### Sujet  
+**présenté par Gilles, vendredi 2 juin 2017**  
 
 description + lien vers contenu github hébergé chez l'apprenant
